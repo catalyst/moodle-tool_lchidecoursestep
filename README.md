@@ -1,4 +1,5 @@
 # Hide course step (Life cycle plugin)
+Hide a course
 
 Installation
 ============
