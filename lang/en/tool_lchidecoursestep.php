@@ -15,4 +15,5 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 $string['pluginname'] = 'Hide course step';
+$string['plugindescription'] = 'This step allows to hide a course by changing its visibility.';
 $string['privacy:metadata'] = 'The plugin does not store any personal data.';
