@@ -30,8 +30,12 @@ class step extends libbase {
         return 'tool_lchidecoursestep';
     }
 
+    public function get_plugin_name() {
+        return get_string('pluginname', 'tool_lchidecoursestep');
+    }
+
     public function get_plugin_description() {
-        return "Hide course";
+        return get_string('plugindescription', 'tool_lchidecoursestep');
     }
 
     public function process_course($processid, $instanceid, $course)
